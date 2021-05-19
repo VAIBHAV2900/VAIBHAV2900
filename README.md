@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VAIBHAV2900
+- 👋 Hi, I’m VAIBHAV
 - 👀 I’m interested in exploring Biomedical Signal Processing.
 - 🌱 We All start as a noob ;)
 
