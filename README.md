@@ -4,6 +4,7 @@
 - 📚 Learning new things everyday.
 - 🌱 Crawling the PYTHON way ;)
 - 📫 vaibhavjoshi290@gmail.com ; ee19s039@smail.iitm.ac.in
+- :link: [Linkedin - Vaibhav Joshi](https://www.linkedin.com/in/vaibhav-joshi-ee/)
 <!---
 VAIBHAV2900/VAIBHAV2900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
